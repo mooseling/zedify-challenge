@@ -1,0 +1,11 @@
+#user-agent-strings-table thead {
+  font-weight: bold;
+}
+
+#user-agent-strings-table td {
+  padding: 5pt;
+}
+
+#user-agent-strings-table tbody tr:nth-child(2n+1) {
+  background-color: #eee;
+}
